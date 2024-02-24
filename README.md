@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">
+  <img src="https://github.com/rizwanloves/rizwanloves/blob/main/readme.gif">
 </p>
 
 ## :rainbow: Hey Profile Visitor 👀<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
@@ -7,6 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Rizwan Ahmed</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
+</br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
