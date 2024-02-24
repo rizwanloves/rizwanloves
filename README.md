@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://github.com/AkshayAnil1080/AkshayAnil1080/blob/master/readme.gif">
+</p>
+
+## :rainbow: Hey Profile Visitor 👀<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rizwanloves alt=rizwanloves/></p>
+
 <h1 align="center">Hi 👋, I'm Rizwan Ahmed</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=rizwanloves&label=Profile%20views&color=0e75b6&style=flat](https://github.com/rizwanloves/rizwanloves/blob/main/coding-freak.gif)" alt="rizwanloves" /> </p>
+
+
 
 - 🔭 I’m currently working on **Full Stack Ecommerce Website**
 
